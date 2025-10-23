@@ -1,3 +1,39 @@
+# Description
+
+[ Briefly explain the change or improvement ]
+
+- **Task ID:** `[TASK-###](www.link.com)`
+
+## Motivation
+[ Why is this necessary? (bug fix, feature enhancement, etc.) ]
+
+## Implementation Details
+[ How was it implemented? Call out complex or risky bits, tradeoffs, and important decisions. ]
+
+## Testing
+[ Describe approach: unit/integration/e2e/manual. List NEW/UPDATED tests and key scenarios. ]
+- [ ] Unit tests added/updated
+- [ ] Integration/e2e (if applicable)
+- Test notes:
+  - Normal cases:
+  - Edge cases:
+  - Negative/error cases:
+
+## Screenshots / Examples
+[ Paste images, GIFs, or short code snippets if helpful. ]
+
+## Risk & Rollback
+- **Breaking changes?** Yes / No  
+  - If yes, describe:
+- **Migration/Config changes?** Yes / No  
+  - If yes, describe:
+- **Rollback plan:** 
+
+## Discussion
+- **Areas that need extra attention:** 
+- **Follow-ups / Out of scope (future PRs):**
+
+
 ### PR Review Checklist
 
 1. **Code Functionality**
