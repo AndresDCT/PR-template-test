@@ -1,3 +1,0 @@
-## Title
-
-[ Hot fix description ]
